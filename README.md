@@ -9,6 +9,6 @@ The aim of this project is to get as high a score as possible (legitimately) in 
 4. ~~Trying to produce condensed features (#Siblings -> "Has less than X Siblings")~~
 5. ~~Preprocessing and encoding~~
 6. ~~Comparing different models and ensembles of models with no tuning.~~
-7. Comparing feature importance in successful models (then back to 4).
-8. Tuning best models.
+7. ~~Comparing feature importance in successful models (then back to 4).~~
+8. ~~Tuning best models.~~
 9. Sending results and addressing over-fitting.
